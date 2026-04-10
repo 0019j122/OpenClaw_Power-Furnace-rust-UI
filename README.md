@@ -82,8 +82,18 @@ target/
 
 
 ```
+安裝Rust
+---
+
+CMD
+CD  專案路徑
+
+---
+cargo rnu
 
 ```
+
+有問題請問 : AI
 
 ## 功能特性
 
