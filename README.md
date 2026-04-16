@@ -82,18 +82,31 @@
 OpenClaw_Power Furnace-rust UI/
 sre/
 ├── Cargo.toml (主)
+
 ├── open_source_plugins/ # 開源插件
+
 │   ├── auto-skill/ # 自動技能系統
+
 │   ├── Star-Office-UI/ # 用戶界面設計
+
 │   └── mempalace/  <-- 把記憶庫移到這裡，別塞在 src 裡
+
 └── src\
+
     └── main.rs (你的核心邏輯)
+    
 ├── role play/ # 角色扮演
+
 ├── skill/  
+
 │       ├── SKILL.md # 必要的
+
 │       ├── assets/ # 靜態資源（範本、圖片、資料檔）
+
 │       ├── Exemplary style / # 生成過的作品風格範例
+
 │       ├── references/ # 額外的參考文件  
+
 │       └── scripts/ # 可執行的程式碼（Python、Bash、JavaScript）
 |
 target/
