@@ -92,8 +92,7 @@ sre/
 │   └── mempalace/  <-- 把記憶庫移到這裡，別塞在 src 裡
 
 └── src\
-
-    └── main.rs (你的核心邏輯)
+     └── main.rs (你的核心邏輯)
     
 ├── role play/ # 角色扮演
 
@@ -108,11 +107,15 @@ sre/
 │       ├── references/ # 額外的參考文件  
 
 │       └── scripts/ # 可執行的程式碼（Python、Bash、JavaScript）
-|
+
 target/
 
 
-```
+
+
+
+---
+
 安裝Rust
 ---
 
