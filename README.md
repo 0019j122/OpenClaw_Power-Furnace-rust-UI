@@ -137,9 +137,13 @@ target/
 安裝 Godot 與 gdext-0.5.0
 
 放置在專案路徑\src\open_source_plugins\
+
                                 ├──    gdext-0.5.0
+                                
                                 └──   Godot 
 
+
+//
                                                                
 ---
 
