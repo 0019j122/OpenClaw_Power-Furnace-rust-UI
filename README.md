@@ -138,9 +138,10 @@ target/
 
 放置在專案路徑\src\open_source_plugins\
                                 ├──    gdext-0.5.0
-
                                 └──   Godot 
 
+                                                               
+---
 
 ---
 CMD
